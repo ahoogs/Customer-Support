@@ -1,5 +1,5 @@
 package com.wrox;
-//test comment
+
 public class Attachment
 {
     private String name;
